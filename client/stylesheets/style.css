@@ -158,3 +158,8 @@ body {
   margin-bottom: 5px;
   pointer-events: auto;
 }
+
+.new-style15 {
+  /** New style added**/
+  color: #fff;
+}
